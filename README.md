@@ -22,7 +22,6 @@ Here's some example code demonstrating how this module is used:
     >>> coin.value()
     1141
 
-    >>> coin
 
 Contribute
 ----------
